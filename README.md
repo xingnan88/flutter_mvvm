@@ -77,5 +77,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ---
 
 For more information, please refer to the [Flutter documentation](https://flutter.dev/docs) or the repository's [issue tracker](https://github.com/xingnan88/flutter_mvvm/issues).
-
-确保在实际的`README.md`中根据你的项目情况进行相应的调整。例如，如果你的项目有特定的安装步骤、额外的依赖、不同的目录结构或者特殊的使用说明，都应该在README中体现出来。同样，如果有贡献者指南或代码贡献规则，也应该在`Contributing`部分进行详细说明。
